@@ -1,4 +1,4 @@
-# kkebaara
+# Kenneth Kebaara
 
 # Hi, I'm Kenneth 👋🏾👨🏾‍💻
 
