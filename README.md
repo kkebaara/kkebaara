@@ -4,7 +4,7 @@
 
 <img src="./">
 
-Welcome to my Github! My name is Kenneth, known some places by my first name—Justin! I'm a Software Engineer. I'm a University Of St Thomas and Flatiron School Alumnus.
+Welcome to my Github! My name is Kenneth. I'm a Software Engineer. I'm a University Of St Thomas and Flatiron School Alumnus.
 
 ## Find me on other sites 🌎:
 
