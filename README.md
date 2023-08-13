@@ -1,6 +1,6 @@
 # Kenneth Kebaara
 
-# Hi, I'm Kenneth 👋🏾👨🏾‍💻
+# Hi, I'm Kenneth
 
 <img src="./">
 
