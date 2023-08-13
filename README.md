@@ -8,6 +8,6 @@ I'm a University Of St Thomas and Flatiron School Alumnus.
 
 - Keep up to date with me on my social networks
 - <a href="https://kkebaara.github.io/">Developer Portfolio</a> or
-- <a href="https://www.linkedin.com/in/kkebaara/">LinkedIn</a> 💼 👨🏾‍💻
-- Follow my blog on <a href="https://kkebaara.medium.com/"> Medium</a> 💻
-- Sharing updates on <a href="https://twitter.com/kkebaara">Twitter</a> 🐥
+- <a href="https://www.linkedin.com/in/kkebaara/">LinkedIn</a>
+- Follow my blog on <a href="https://kkebaara.medium.com/"> Medium</a>
+- Sharing updates on <a href="https://twitter.com/kkebaara">Twitter</a>
