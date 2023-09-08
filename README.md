@@ -1,5 +1,5 @@
 Welcome to my Github! My name is Kenneth. 
-I'm a Software Engineer. <img src="./">
+I'm a Software Engineer.
 I'm a University Of St Thomas and Flatiron School Alumnus.
 
 - Keep up to date with me on my social networks
