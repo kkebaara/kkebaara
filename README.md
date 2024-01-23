@@ -1,4 +1,4 @@
-Welcome to my Github! My name is Kenneth. 
+Welcome to my Github! My name is Kenneth Kebaara. 
 I'm a Software Engineer.
 I'm a University Of St Thomas and Flatiron School Alumnus.
 
